@@ -1,5 +1,5 @@
 import random
-from PythonScheduler.employee import Employee
+from employee import Employee
 
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 SHIFTS = ["Morning", "Afternoon", "Evening"]
