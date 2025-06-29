@@ -1,0 +1,15 @@
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/bin/Debug/net7.0/CSharpScheduler
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/bin/Debug/net7.0/CSharpScheduler.deps.json
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/bin/Debug/net7.0/CSharpScheduler.runtimeconfig.json
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/bin/Debug/net7.0/CSharpScheduler.dll
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/bin/Debug/net7.0/CSharpScheduler.pdb
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.csproj.AssemblyReference.cache
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.AssemblyInfoInputs.cache
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.AssemblyInfo.cs
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.csproj.CoreCompileInputs.cache
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.dll
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/refint/CSharpScheduler.dll
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.pdb
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/CSharpScheduler.genruntimeconfig.cache
+/Users/bikramrumba/AdvancedPL/employee_scheduler/CSharpScheduler/obj/Debug/net7.0/ref/CSharpScheduler.dll
